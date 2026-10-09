@@ -1,3 +1,7 @@
+ĐẶNG CÔNG TÙNG - 24IT300 - 24JIT 
+
+
+
 # Midterm Project — Implement `ls(1)`
 
 A simplified, from-scratch implementation of the UNIX `ls(1)` command in C,
