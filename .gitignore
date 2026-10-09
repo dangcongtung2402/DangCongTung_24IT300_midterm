@@ -1,0 +1,17 @@
+# Compiled binary
+ls
+/ls
+
+# Object files
+*.o
+
+# Dependency files (if generated later)
+*.d
+
+# Editor / OS noise
+*~
+*.swp
+.DS_Store
+
+# Test artefacts
+tests/tmp/
